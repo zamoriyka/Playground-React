@@ -1,0 +1,7 @@
+h4 {
+  cursor: pointer;
+}
+
+.show-on {
+  transition: height 0.3s ease-out;
+}
